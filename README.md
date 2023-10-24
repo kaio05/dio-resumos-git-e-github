@@ -7,15 +7,8 @@ Repositório para armazenar resumos sobre Git e Github do curso Versionamento de
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentação Github](https://docs.github.com/)
 
-## 💻 Resumos das aulas
+## 💻 [Resumos das aulas](https://github.com/kaio05/dio-resumos-git-e-github/resumo)
 
-| Aulas | Resumos |
-|-------|---------|
-| Gravando Alterações no Repositório Local | [Resumos]() |
-
-```
-git init
-```
 ## 🔎 Referências
 - [Digital Innovation One](https://www.dio.me/).
 
